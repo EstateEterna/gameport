@@ -1,5 +1,6 @@
 def main():
     name = "Dara"
-    print("Hello, {name}")
+    for i in range(10):
+        print("Hello, {name}")
 
 main()
